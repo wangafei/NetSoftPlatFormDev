@@ -89,6 +89,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>xcopy  "$(AssemblyName).dll" "E:\CvsWork\JietuPublic\Arx_Net\ArxProjectUserNetExcel\x64\Release_v141\" /D /Y /R /F</PostBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
   </PropertyGroup>
 </Project>
