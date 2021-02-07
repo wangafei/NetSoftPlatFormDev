@@ -42,7 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Factory\IFactory.cs" />
-    <Compile Include="Factory\IFactoryMananger.cs" />
+    <Compile Include="Factory\NetDevFactoryMananger.cs" />
     <Compile Include="NetDevGe\IPoint3D.cs" />
     <Compile Include="NetDevGe\IVector3D.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

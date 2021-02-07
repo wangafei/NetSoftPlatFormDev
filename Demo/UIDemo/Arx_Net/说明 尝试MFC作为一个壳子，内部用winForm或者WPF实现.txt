@@ -1,0 +1,5 @@
+1.ArxProject2  C++ 写的 arx clr工程，这个工程可以用 cad的 net接口来实现，主要用于加载 C# 写的 dll
+2.ArxProjectOutCFun C++ 写的 arx工程，这个工程 主要负责导出 C#所学的c接口。里面有一个MFC创建一个对话框，用于装 C#创建的窗体。
+3.NetFormDll C#写的dll，界面实体所在的工程
+
+经过测试，方案可行，可用于实体项目中。
