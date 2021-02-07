@@ -11,3 +11,4 @@
 
 # 关于授权
      目前处于开发初期，个人开发者授权完全免费！当然可以打赏，商业授权收费，商业合作联系QQ：1504187115
+![支付宝](https://gitee.com/wangafei/public-resource-/blob/master/Image/zhifubao.jpg "支付宝")
