@@ -11,3 +11,8 @@
 
 # 关于授权
      目前处于开发初期，个人开发者授权完全免费！当然可以打赏，商业授权收费，商业合作联系QQ：1504187115
+![支付宝](支付宝二维码.png "支付宝二维码.png")
+![微信](微信二维码.png "微信二维码.png")
+
+<img src="https://github.com/wangafei/NetSoftPlatFormDev/支付宝二维码.png" width="200" height="200" alt="支付宝二维码"/><br/>
+<img src="https://github.com/wangafei/NetSoftPlatFormDev/微信二维码.png" width="200" height="200" alt="微信二维码"/><br/>
