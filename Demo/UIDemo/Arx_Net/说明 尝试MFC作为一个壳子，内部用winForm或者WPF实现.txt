@@ -3,3 +3,6 @@
 3.NetFormDll C#写的dll，界面实体所在的工程
 
 经过测试，方案可行，可用于实体项目中。
+
+首先 netload 加载 ArxProject2.dll
+运行命令：ArxProject2App_Test  如果正常则弹出Image/UI.jpg 对话框
